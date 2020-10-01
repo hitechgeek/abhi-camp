@@ -1,6 +1,7 @@
 body
 {
-    background:indianred;
+    background:rgb(92,184,92);
+    /* indianred */
 } 
 
 .thumbnail img
@@ -16,4 +17,9 @@ body
 .thumbnail .caption-full
 {
     padding:9px;
+}
+
+.delete-form
+{
+    display:inline;
 }
